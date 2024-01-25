@@ -6,7 +6,7 @@ Large File Sorter Application
 
 ## Getting Started
 
-To run this application clone th project and  run the following commands:
+To run this application clone the project and run the following commands:
 
 ```bash
 cd LargeFileSorter 
