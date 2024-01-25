@@ -10,6 +10,6 @@ To run this application clone th project and  run the following commands:
 
 ```bash
 cd LargeFileSorter 
-javac src\LargeFileSorter.java
-java src\LargeFileSorter inputFilePath outputFilePath
+javac src/LargeFileSorter.java
+java src/LargeFileSorter inputFilePath outputFilePath
 ```
